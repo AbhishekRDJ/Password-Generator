@@ -24,7 +24,7 @@ Click the copy icon to instantly copy the password to your clipboard.
 
 Installation
 Clone this repository:
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/AbhishekRDJ/password-generator.git
 Open the project folder:
 cd password-generator
 Open the index.html file in your preferred browser to view the password generator.
